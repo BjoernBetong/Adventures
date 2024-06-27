@@ -12,11 +12,19 @@
       "label": "Hexenreigen",
       "path": "packs/hexenreigen",
       "type": "Adventure",
+      "system": "dsa-41",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "dsa-41"
+      }
+    }
+  ],
+  "authors": [
+    {
+      "name": "BjoernBetong",
+      "discord": "BjoernBetong#7869",
+      "email": "bjoern.andreessen@outlook.de",
+      "url": "https://github.com/BjoernBetong/Adventures/blob/main/module.json"
     }
   ]
 }
