@@ -1,0 +1,22 @@
+{
+  "id": "hexenreigen",
+  "title": "Hexenreigen",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "packs": [
+    {
+      "name": "hexenreigen",
+      "label": "Hexenreigen",
+      "path": "packs/hexenreigen",
+      "type": "Adventure",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dsa-41"
+    }
+  ]
+}
